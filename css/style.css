@@ -1,0 +1,72 @@
+header nav ul li {
+    display: inline-block;
+    
+}
+header{
+    display: flex;
+    justify-content: flex-end;
+    padding: 30px 10%;
+}
+.logo {
+    margin-right: auto;
+}
+
+header div {
+    display: inline-block;
+    margin-right: auto;
+    font-family: 'Pacifico', cursive;
+}
+
+
+#midd {
+ margin-left: auto;
+ margin-right:auto ;
+ display: block;
+}
+
+.para{
+    font-family: 'Teko', sans-serif;
+    margin-left: 80px;
+}
+ main h3 {
+    color: #9a8c98;
+
+    font-family: 'Teko', sans-serif;
+    margin-left: 80px;
+
+}
+
+p {
+    color: #9a8c98;
+    margin-left: 80px;
+    font-size: large;
+}
+
+
+form {
+    background-image: url(../images/list-bg.png);
+
+
+    }
+
+    .box1 {
+        display: block;
+        margin-left: 80px;
+        
+    }
+    .box2 {
+        margin-left: 80px;
+    }
+
+
+    .footer {
+        margin: 80px;
+    }
+    
+    div ul li  {
+        display: inline-block;
+    }
+
+    .van {
+        margin-left: 80px;
+    }
