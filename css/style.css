@@ -16,7 +16,9 @@ header div {
     margin-right: auto;
     font-family: 'Pacifico', cursive;
 }
-
+header div h1 , header div h3 {
+    margin-left: 220px;
+}
 
 #midd {
  margin-left: auto;
@@ -26,19 +28,19 @@ header div {
 
 .para{
     font-family: 'Teko', sans-serif;
-    margin-left: 80px;
+    margin-left: 220px;
 }
  main h3 {
     color: #9a8c98;
 
     font-family: 'Teko', sans-serif;
-    margin-left: 80px;
+    margin-left: 220px;
 
 }
 
 p {
     color: #9a8c98;
-    margin-left: 80px;
+    margin-left: 220px;
     font-size: large;
 }
 
@@ -51,16 +53,16 @@ form {
 
     .box1 {
         display: block;
-        margin-left: 80px;
+        margin-left: 220px;
         
     }
     .box2 {
-        margin-left: 80px;
+        margin-left: 220px;
     }
 
 
     .footer {
-        margin: 80px;
+        margin: 220px;
     }
     
     div ul li  {
@@ -69,4 +71,27 @@ form {
 
     .van {
         margin-left: 80px;
+    }
+
+    button {
+        padding: 10px 20px 10px 20px ;
+        float: right;
+        background-color: rgb(139, 65, 57);
+        color: silver;
+    }
+
+
+    footer img {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+
+    footer p 
+    {
+
+        color: #9a8c98;
+        text-align: center;
+        font-family: 'Syne Mono', monospace;
+
     }
