@@ -8,7 +8,7 @@ header{
     padding: 30px 10%;
 }
 .logo {
-    margin-right: auto;
+    margin-right: 400px;
 }
 
 header div {
@@ -47,17 +47,19 @@ p {
 
 form {
     background-image: url(../images/list-bg.png);
+    height: 300px;
 
 
     }
 
     .box1 {
         display: block;
-        margin-left: 220px;
+        /* margin-left: 220px; */
         
     }
     .box2 {
         margin-left: 220px;
+     float: right;
     }
 
 
@@ -71,6 +73,8 @@ form {
 
     .van {
         margin-left: 80px;
+        font-family: 'Roboto Slab', serif;
+        color: #8e9aaf;
     }
 
     button {
@@ -93,5 +97,7 @@ form {
         color: #9a8c98;
         text-align: center;
         font-family: 'Syne Mono', monospace;
+        margin-left: -22px;
+
 
     }
