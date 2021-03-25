@@ -64,6 +64,7 @@ p {
 form {
     background-image: url(../images/list-bg.png);
     height: 300px;
+    margin-top: 60px;
 
 
     }
@@ -95,6 +96,12 @@ form {
         margin-left: 80px;
         font-family: 'Roboto Slab', serif;
         color: #8e9aaf;
+    }
+
+
+    .name {
+        font-family: 'Roboto Slab', serif;
+
     }
 
     button {
